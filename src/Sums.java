@@ -10,7 +10,9 @@ public class Sums {
 		user.close();
 		
 		int result = num1 + num2;
-		System.out.println(result);
+		System.out.println(result); //prints result
+		System.out.println("nice job");
+		
 
 	}
 }
