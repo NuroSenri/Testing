@@ -11,8 +11,6 @@ public class Sums {
 		
 		int result = num1 + num2;
 		System.out.println(result); //prints result
-		This is b
-		
 
 	}
 }
